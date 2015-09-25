@@ -10,7 +10,7 @@
 
 	<groupId>net.stickycode.mockwire</groupId>
 	<artifactId>sticky-mockwire-junit</artifactId>
-	<version>2.3-SNAPSHOT</version>
+	<version>2.4-SNAPSHOT</version>
 
 	<name>sticky-mockwire-junit-2</name>
 	<description>Junit runner to enable Mockwire</description>
@@ -27,7 +27,7 @@
 		<dependency>
 			<groupId>net.stickycode.mockwire</groupId>
 			<artifactId>sticky-mockwire</artifactId>
-			<version>[9.2,10)</version>
+			<version>[9.4,10)</version>
 		</dependency>
 
 		<dependency>
